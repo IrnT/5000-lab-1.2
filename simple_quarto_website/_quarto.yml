@@ -1,0 +1,22 @@
+project:
+  type: website
+  title: "simple_quarto_website"
+
+website:
+  title: "Lab 1.2"
+  navbar:
+    background: dark
+    search: false
+    left:
+      - href: index.qmd
+        text: Home
+      - href: about.html
+        text: About
+      - href: /slides/slides.html
+        text: Slides (CANNOT RETURN)
+
+format:
+  html:
+    css: styles.css
+
+

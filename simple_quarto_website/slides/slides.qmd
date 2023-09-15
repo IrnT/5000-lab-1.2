@@ -1,0 +1,55 @@
+---
+title: Slide Demo
+subtitle: By Irene
+format:
+  revealjs:
+    slide-number: true
+    chalkboard:
+      buttons: true
+    preview-links: auto
+bibliography: reference.bib
+jupyter: python3
+---
+
+## First Slide
+
+- bingo
+
+```{python}
+#| vscode: {languageId: python}
+import matplotlib.pyplot as plt
+import numpy as np
+
+points = np.array([3,7,1,9,4])
+
+plt.plot(points, color = "red")
+plt.xlabel("Time (in light years) (jk hours) ", fontsize = "16")
+plt.ylabel("Puppers In Sight", fontsize = "16")
+plt.title("The Importance Of Puppies", fontsize="26")
+plt.show()
+```
+
+
+## Second Slide
+
+- bango
+- [@10.1093/cid/ciq022]
+- Sorry this HAS to be a qmd because apparently my version of Python is a little broken.
+
+## Third Slide
+
+- bongo
+- [@e1430a8e-03ef-3ca6-8523-75c81f9c1111]
+- Every time I tried to force this into an .ipynb the entire thing broke. 
+- If I lose points for that then so be it, sorry!!
+
+## Fourth Slide - Grogu 1
+
+![Grogu contemplating](/images/GROGU.png){fig-alt="Grogu sitting on a mossy rock."}
+
+## Fifth Slide - Grogu 2
+
+![Grogu studying](/images/myson.png){fig-alt="Grogu standing upright, head titled curiously."}
+
+## References
+

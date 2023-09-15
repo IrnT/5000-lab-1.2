@@ -1,0 +1,93 @@
+[
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About Me!",
+    "section": "",
+    "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Felis bibendum ut tristique et. Vitae turpis massa sed elementum tempus egestas. Mi proin sed libero enim sed. Lorem ipsum dolor sit amet consectetur adipiscing. Sit amet justo donec enim diam vulputate ut pharetra sit. Urna nunc id cursus metus aliquam eleifend mi in. Quisque sagittis purus sit amet volutpat consequat mauris nunc. Donec ac odio tempor orci dapibus ultrices. Quam elementum pulvinar etiam non quam lacus suspendisse faucibus interdum. Suscipit tellus mauris a diam maecenas sed enim. Ut tristique et egestas quis ipsum suspendisse ultrices gravida. Ante metus dictum at tempor commodo ullamcorper. Sed odio morbi quis commodo odio.\n\n\nInterdum velit euismod in pellentesque massa placerat. Varius morbi enim nunc faucibus a pellentesque sit amet porttitor. Massa vitae tortor condimentum lacinia quis vel eros donec. Senectus et netus et malesuada fames. Nec feugiat nisl pretium fusce. Sit amet justo donec enim diam vulputate. Lectus sit amet est placerat in egestas. Tristique senectus et netus et malesuada. Sem viverra aliquet eget sit amet tellus cras adipiscing. Suscipit adipiscing bibendum est ultricies integer quis auctor elit. Amet consectetur adipiscing elit ut aliquam."
+  },
+  {
+    "objectID": "about.html#first-section",
+    "href": "about.html#first-section",
+    "title": "About Me!",
+    "section": "",
+    "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Felis bibendum ut tristique et. Vitae turpis massa sed elementum tempus egestas. Mi proin sed libero enim sed. Lorem ipsum dolor sit amet consectetur adipiscing. Sit amet justo donec enim diam vulputate ut pharetra sit. Urna nunc id cursus metus aliquam eleifend mi in. Quisque sagittis purus sit amet volutpat consequat mauris nunc. Donec ac odio tempor orci dapibus ultrices. Quam elementum pulvinar etiam non quam lacus suspendisse faucibus interdum. Suscipit tellus mauris a diam maecenas sed enim. Ut tristique et egestas quis ipsum suspendisse ultrices gravida. Ante metus dictum at tempor commodo ullamcorper. Sed odio morbi quis commodo odio.\n\n\nInterdum velit euismod in pellentesque massa placerat. Varius morbi enim nunc faucibus a pellentesque sit amet porttitor. Massa vitae tortor condimentum lacinia quis vel eros donec. Senectus et netus et malesuada fames. Nec feugiat nisl pretium fusce. Sit amet justo donec enim diam vulputate. Lectus sit amet est placerat in egestas. Tristique senectus et netus et malesuada. Sem viverra aliquet eget sit amet tellus cras adipiscing. Suscipit adipiscing bibendum est ultricies integer quis auctor elit. Amet consectetur adipiscing elit ut aliquam."
+  },
+  {
+    "objectID": "about.html#second-section",
+    "href": "about.html#second-section",
+    "title": "About Me!",
+    "section": "Second Section",
+    "text": "Second Section\nFaucibus in ornare quam viverra orci sagittis eu volutpat odio. Non enim praesent elementum facilisis leo vel fringilla. Posuere sollicitudin aliquam ultrices sagittis orci a scelerisque purus. Bibendum neque egestas congue quisque egestas diam in arcu cursus. Pharetra pharetra massa massa ultricies. Eget gravida cum sociis natoque penatibus et. Cursus turpis massa tincidunt dui ut ornare lectus sit. Pharetra pharetra massa massa ultricies mi quis. Cras sed felis eget velit. Nulla porttitor massa id neque aliquam. Molestie ac feugiat sed lectus vestibulum mattis. Dictum sit amet justo donec enim diam vulputate ut. Neque laoreet suspendisse interdum consectetur libero id faucibus nisl tincidunt. Sed vulputate odio ut enim.\n\nimport matplotlib.pyplot as plt\nimport numpy as np\n\npoints = np.array([3,7,1,9,4])\n\nplt.plot(points, color = \"red\")\nplt.xlabel(\"Time (in light years) (jk hours) \", fontsize = \"16\")\nplt.ylabel(\"Puppers In Sight\", fontsize = \"16\")\nplt.title(\"The Importance Of Puppies\", fontsize=\"26\")\nplt.show()"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Simple Quarto Website",
+    "section": "",
+    "text": "Felis bibendum ut tristique et. Vitae turpis massa sed elementum tempus egestas. Mi proin sed libero enim sed.\nLorem ipsum dolor sit amet consectetur adipiscing.(Jurca 2013)\n\n\n\nSit amet justo donec enim diam vulputate ut pharetra sit. Urna nunc id cursus metus aliquam eleifend mi in.\nQuisque sagittis purus sit amet volutpat consequat mauris nunc.\n\n\nDonec ac odio tempor orci dapibus ultrices.1 Suscipit tellus mauris a diam maecenas sed enim. Ut tristique et egestas quis ipsum suspendisse ultrices gravida. Ante metus dictum at tempor commodo ullamcorper.2\n\nLorem ipsum dolor sit amet,\nconsectetur adipiscing elit,\nsed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+  },
+  {
+    "objectID": "index.html#footnotes",
+    "href": "index.html#footnotes",
+    "title": "Simple Quarto Website",
+    "section": "Footnotes",
+    "text": "Footnotes\n\n\nQuam elementum pulvinar etiam non quam lacus suspendisse faucibus interdum.↩︎\nSed odio morbi quis commodo odio.↩︎"
+  },
+  {
+    "objectID": "simple_quarto_website.html",
+    "href": "simple_quarto_website.html",
+    "title": "You Shouldn’t Be Here",
+    "section": "",
+    "text": "This is a placeholder. Not sure how to drop it without making the entire project break. Click home to get us out of here."
+  },
+  {
+    "objectID": "simple_quarto_website.html#hey-there",
+    "href": "simple_quarto_website.html#hey-there",
+    "title": "You Shouldn’t Be Here",
+    "section": "",
+    "text": "This is a placeholder. Not sure how to drop it without making the entire project break. Click home to get us out of here."
+  },
+  {
+    "objectID": "slides/slides.html#first-slide",
+    "href": "slides/slides.html#first-slide",
+    "title": "Slide Demo",
+    "section": "First Slide",
+    "text": "First Slide\n\nbingo"
+  },
+  {
+    "objectID": "slides/slides.html#second-slide",
+    "href": "slides/slides.html#second-slide",
+    "title": "Slide Demo",
+    "section": "Second Slide",
+    "text": "Second Slide\n\nbango\n(Fowlkes et al. 2011)\nSorry this HAS to be a qmd because apparently my version of Python is a little broken."
+  },
+  {
+    "objectID": "slides/slides.html#third-slide",
+    "href": "slides/slides.html#third-slide",
+    "title": "Slide Demo",
+    "section": "Third Slide",
+    "text": "Third Slide\n\nbongo\n(Jurca 2013)\nEvery time I tried to force this into an .ipynb the entire thing broke.\nIf I lose points for that then so be it, sorry!!"
+  },
+  {
+    "objectID": "slides/slides.html#fourth-slide---grogu-1",
+    "href": "slides/slides.html#fourth-slide---grogu-1",
+    "title": "Slide Demo",
+    "section": "Fourth Slide - Grogu 1",
+    "text": "Fourth Slide - Grogu 1\n\nGrogu contemplating"
+  },
+  {
+    "objectID": "slides/slides.html#fifth-slide---grogu-2",
+    "href": "slides/slides.html#fifth-slide---grogu-2",
+    "title": "Slide Demo",
+    "section": "Fifth Slide - Grogu 2",
+    "text": "Fifth Slide - Grogu 2\n\nGrogu studying"
+  },
+  {
+    "objectID": "slides/slides.html#references",
+    "href": "slides/slides.html#references",
+    "title": "Slide Demo",
+    "section": "References",
+    "text": "References\n\n\n\n\n\n\nFowlkes, Ashley L., Paul Arguin, Matthew S. Biggerstaff, Jacqueline Gindler, Dianna Blau, Seema Jain, Roseline Dhara, et al. 2011. “Epidemiology of 2009 Pandemic Influenza A (H1N1) Deaths in the United States, April–July 2009.” Clinical Infectious Diseases. https://doi.org/10.1093/cid/ciq022.\n\n\nJurca, Catherine. 2013. “‘The Entire Motion Picture Industry Presents’: The World Is Ours (1938).” The Moving Image: The Journal of the Association of Moving Image Archivists 13 (2): 99–108. http://www.jstor.org/stable/10.5749/movingimage.13.2.0099."
+  }
+]

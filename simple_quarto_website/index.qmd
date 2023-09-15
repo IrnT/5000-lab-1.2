@@ -1,0 +1,86 @@
+---
+title: Simple Quarto Website
+author: Irene Tait
+format: 
+  html:
+    toc: true
+    toc-location: left
+    number-sections: true
+bibliography: reference.bib
+engine: knitr
+---
+
+
+
+# First Section!
+
+:::: {.columns}
+
+::: {.column width="45%"}
+Felis bibendum ut tristique et. Vitae turpis massa sed elementum tempus egestas. Mi proin sed libero enim sed.
+
+Lorem ipsum dolor sit amet consectetur adipiscing.[@e1430a8e-03ef-3ca6-8523-75c81f9c1111]
+:::
+
+::: {.column width="10%"}
+<!-- just makes the space nice, plz don't downgrade me if its technically 3 columns -->
+:::
+
+::: {.column width="45%"}
+ Sit amet justo donec enim diam vulputate ut pharetra sit. Urna nunc id cursus metus aliquam eleifend mi in. 
+
+ Quisque sagittis purus sit amet volutpat consequat mauris nunc. 
+:::
+
+::::
+
+ Donec ac odio tempor orci dapibus ultrices.^[Quam elementum pulvinar etiam non quam lacus suspendisse faucibus interdum.] Suscipit tellus mauris a diam maecenas sed enim. Ut tristique et egestas quis ipsum suspendisse ultrices gravida. Ante metus dictum at tempor commodo ullamcorper.^[Sed odio morbi quis commodo odio.] 
+
+ * Lorem ipsum dolor sit amet, 
+* consectetur adipiscing elit, 
+* sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. 
+
+
+# Second Section!
+
+Interdum velit euismod in pellentesque massa placerat. Varius morbi enim nunc faucibus a pellentesque sit amet porttitor. Massa vitae tortor condimentum lacinia quis vel eros donec. Senectus et netus et malesuada fames. 
+
+> Nec feugiat nisl pretium fusce. 
+
+Sit amet justo donec enim diam vulputate. Lectus sit amet est placerat in egestas. Tristique senectus et netus et malesuada. $x = \tan(\Theta)$ Sem viverra aliquet eget sit amet tellus cras adipiscing. $$\sum\sqrt{\bar{\alpha}}$$ Suscipit adipiscing bibendum est ultricies integer quis auctor elit. Amet consectetur adipiscing elit ut aliquam.
+
+{{< video https://www.youtube.com/watch?v=OIvMH7JpP00 >}}
+
+# Original Title!
+
+| Faucibus | In | Ornare | Quam |
+|:--------:|----|:-------|-----:|
+|viverra   |orci|sagittis|eu    |
+|volutpat  |odio|Non     |enim  |
+
+: Faucibus in ornare quam viverra orci sagittis eu volutpat odio. {.striped .hover}
+
+```{mermaid}
+flowchart LR
+  A(Din Djarin) --> B(The Mandalorian)
+  B --> C{Keep Grogu?}
+  C --> D[Ultimate Dad]
+  C --> E[Lack of Dadness]
+  D --> F(Happy)
+  E --> G(Unhappy)
+```
+
+ Non enim praesent elementum facilisis leo vel fringilla. Posuere sollicitudin aliquam ultrices sagittis orci a scelerisque purus. Bibendum neque egestas congue quisque egestas diam in arcu cursus. Pharetra pharetra massa massa ultricies. 
+ 
+ ![Grogu contemplating](/images/GROGU.png){fig-alt="Grogu sitting on a mossy rock."}
+
+ Eget gravida cum sociis natoque penatibus et. Cursus turpis massa tincidunt dui ut ornare lectus sit. Pharetra pharetra massa massa ultricies mi quis. 
+ 
+![Grogu studying](/images/myson.png){fig-alt="Grogu standing upright, head titled curiously."}
+ 
+ Cras sed felis eget velit. Nulla porttitor massa id neque aliquam. Molestie ac feugiat sed lectus vestibulum mattis.[@10.1093/cid/ciq022] Dictum sit amet justo donec enim diam vulputate ut. Neque laoreet suspendisse interdum consectetur libero id faucibus nisl tincidunt. Sed vulputate odio ut enim.
+
+# References
+
+::: {#refs}
+:::
