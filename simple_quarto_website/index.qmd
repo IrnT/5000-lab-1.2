@@ -3,9 +3,7 @@ title: Simple Quarto Website
 author: Irene Tait
 format: 
   html:
-    toc: true
-    toc-location: left
-    number-sections: true
+    css: ../styles.css
 bibliography: reference.bib
 engine: knitr
 ---
